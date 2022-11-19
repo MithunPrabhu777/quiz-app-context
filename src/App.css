@@ -1,12 +1,12 @@
 .container {
-    background-color: #282c34;
+    background-color: #d5d6d8;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     font-size: 23px;
-    color: white;
+    color: black;
     text-align: center;
 }
 
